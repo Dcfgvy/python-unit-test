@@ -10,3 +10,4 @@ class MinOfThreeVarsTestCase(unittest.TestCase):
 
 
         
+# few
