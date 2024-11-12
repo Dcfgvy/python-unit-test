@@ -8,3 +8,4 @@ def min_of_three_vars(a, b, c):
 
 if __name__ == "__main__":
     min_of_three_vars(1, 2, 3)
+# gugugaga
