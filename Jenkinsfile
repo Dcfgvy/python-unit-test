@@ -13,5 +13,12 @@ pipeline {
                 }
             }
         }
+        stage('Coverage') {
+            steps {
+                script {
+                    sh 'coverage run -m nose2'
+                }
+            }
+        }
     }
 }
